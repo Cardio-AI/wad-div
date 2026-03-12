@@ -64,10 +64,23 @@ See [`example_usage.ipynb`](example_usage.ipynb) for a full walkthrough includin
 If you use WAD-Div in your research, please cite our paper:
 
 ```bibtex
-@inproceedings{waddiv2026,
-  title     = {WAD-Div: Wasserstein Distance Diversity for Medical Image Generation},
-  booktitle = {Bildverarbeitung für die Medizin (BVM)},
-  year      = {2026},
+@InProceedings{10.1007/978-3-658-51100-5_83,
+author="Seyfarth, Marvin
+and Dar, Salman U. H.
+and Engelhardt, Sandy",
+editor="Handels, Heinz
+and Breininger, Katharina
+and Deserno, Thomas
+and Maier, Andreas
+and Maier-Hein, Klaus
+and Palm, Christoph
+and Tolxdorff, Thomas",
+title="Rethinking Diversity Metrics in Medical Imaging with Wasserstein Distance",
+booktitle="Bildverarbeitung f{\"u}r die Medizin 2026",
+year="2026",
+publisher="Springer Fachmedien Wiesbaden",
+address="Wiesbaden",
+pages="420--426",
 }
 ```
 
